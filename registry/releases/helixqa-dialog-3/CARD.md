@@ -1,6 +1,6 @@
 ---
 pretty_name: HelixQA Dialog 3
-license: cc-by-nc-4.0
+license: TBD
 language:
 - en
 task_categories:
