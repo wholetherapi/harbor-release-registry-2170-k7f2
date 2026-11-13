@@ -1,6 +1,6 @@
 ---
 pretty_name: Patio SFT Corpus
-license: TBD
+license: apache-2.0
 language:
 - en
 task_categories:
