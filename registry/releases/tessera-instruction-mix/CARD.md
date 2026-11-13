@@ -1,6 +1,6 @@
 ---
 pretty_name: Tessera Instruction Mix
-license: TBD
+license: cc-by-4.0
 language:
 - en
 task_categories:
